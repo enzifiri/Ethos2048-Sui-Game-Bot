@@ -1,8 +1,8 @@
 # Ethos2048-Sui-Game-Bot
 hi im not a robot.
 
-go ethos game website
-press f12 and go console
+go ethos game website/ 
+press f12 and go console /
 copy and paste this commands
 
 ```
