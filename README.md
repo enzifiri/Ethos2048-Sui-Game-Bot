@@ -1,9 +1,9 @@
 # Ethos2048-Sui-Game-Bot
 hi im not a robot.
 
-go ethos game website/ 
-press f12 and go console /
-copy and paste this commands
+2048 oyunu olan her platformda çalışır ethos, singularity vs../ 
+siteye sağ tıklayıp incele tuşuna basın ya da direk f12 basıp o ekrana erişin /
+açılan sayfada üstte Console yazan yere tıklayın ve alttaki kodu yapıştırın.
 
 ```
 (function () {
